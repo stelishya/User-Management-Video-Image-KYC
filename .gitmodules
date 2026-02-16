@@ -1,0 +1,3 @@
+[submodule "frontend-UserManagement"]
+	path = frontend-UserManagement
+	url = https://github.com/stelishya/frontend-UserManagement.git
